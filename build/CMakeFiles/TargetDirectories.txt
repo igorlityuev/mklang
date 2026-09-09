@@ -1,0 +1,3 @@
+/Users/ihar/VScode/c++/mklang/build/CMakeFiles/MKlang.dir
+/Users/ihar/VScode/c++/mklang/build/CMakeFiles/edit_cache.dir
+/Users/ihar/VScode/c++/mklang/build/CMakeFiles/rebuild_cache.dir
